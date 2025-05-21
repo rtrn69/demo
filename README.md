@@ -5,6 +5,7 @@ Some type of description
 Additional information
 
 
-## Sub-Heading 1
+## Sub Heading
 
-Paragraph of text
+More text
+
