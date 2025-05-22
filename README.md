@@ -1,11 +1,13 @@
 # Demo
 
+## Main Heading 1
+
 Some type of description
 
 Additional information
 
 
-## Sub Heading
+### Sub Heading 1
 
 More text
 
